@@ -1,5 +1,5 @@
 import React from "react";
-import 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/portfolio.css';
+import '.../portfolio.css';
 
 
 const Modal = ({ isOpen, onClose, children }) => {

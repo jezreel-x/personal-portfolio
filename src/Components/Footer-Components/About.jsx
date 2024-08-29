@@ -3,7 +3,7 @@ import Navbar from "../Navbar-Components/Navbar";
 import webDev from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/web-development.png';
 import cybersec from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/cybersec-img.jpg';
 import socialMedia from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/social-media.jpg';
-import 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/portfolio.css';
+import '.../portfolio.css';
 import Footer from "./Footer";
 
 import HackerRoomImage from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/hacker-room.png';

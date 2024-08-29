@@ -4,7 +4,7 @@ import webDev from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/As
 import hacker from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/hacker-img.png';
 import mobileApp from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/mobile.jpg';
 
-import 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/portfolio.css';
+import '.../portfolio.css';
 
 // import Footer from "./Footer";
 import { DiAndroid, DiApple, DiTerminal, DiJavascript1 } from "react-icons/di";

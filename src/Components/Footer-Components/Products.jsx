@@ -3,7 +3,7 @@ import Navbar from "../Navbar-Components/Navbar";
 import ImageCarousel from "../Additional-Components/ImageCarousel";
 import Footer from "./Footer";
 
-import 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/portfolio.css';
+import '.../portfolio.css';
 
 import { AiTwotoneMessage } from "react-icons/ai";
 import { PiPhoneCallDuotone } from "react-icons/pi";

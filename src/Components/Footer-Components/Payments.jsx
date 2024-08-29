@@ -4,7 +4,7 @@ import mpesa from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Ass
 import paypal from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/paypal.png';
 import stanchart from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/StanChart.png';
 import bill from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/bill.png';
-import 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/portfolio.css';
+import '.../portfolio.css';
 
 
 import Footer from "./Footer";

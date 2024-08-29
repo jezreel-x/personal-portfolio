@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/portfolio.css';
+import '.../portfolio.css';
 const texts = ["Web Developer", "Cybersecurity Analyst", "Mobile App Developer with React Native"];
 
 const TextAnimation = () => {

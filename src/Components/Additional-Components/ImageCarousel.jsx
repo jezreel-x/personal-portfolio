@@ -3,7 +3,7 @@ import officeImage from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/s
 import codingImg from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/coding-img.jpg';
 import mobileApp from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/mobile.jpg';
 import aiGenerated from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/ai-generated.jpg';
-import 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/portfolio.css';
+import '.../portfolio.css';
 
 
 const images = [

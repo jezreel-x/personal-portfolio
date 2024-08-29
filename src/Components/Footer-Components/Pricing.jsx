@@ -10,7 +10,7 @@ import mobileAppDev from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/
 import professionalWeb from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/professional-web.png';
 import portfolioWeb from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/portfolio-website.png';
 
-import 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/portfolio.css';
+import '.../portfolio.css';
 
 import { AiTwotoneMessage } from "react-icons/ai";
 import { PiPhoneCallDuotone } from "react-icons/pi";

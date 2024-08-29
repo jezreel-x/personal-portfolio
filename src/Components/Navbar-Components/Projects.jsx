@@ -6,7 +6,7 @@ import reverseShell from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/
 import { DiTerminal } from "react-icons/di";
 import { CiCalculator2 } from "react-icons/ci";
 
-import 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/portfolio.css';
+import '.../portfolio.css';
 
 // import Footer from "./Footer";
 
