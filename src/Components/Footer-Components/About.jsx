@@ -1,12 +1,12 @@
 import React from "react";
 import Navbar from "../Navbar-Components/Navbar";
-import webDev from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/web-development.png';
-import cybersec from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/cybersec-img.jpg';
-import socialMedia from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/social-media.jpg';
+import webDev from '.../Assets/web-development.png';
+import cybersec from '.../Assets/cybersec-img.jpg';
+import socialMedia from '.../Assets/social-media.jpg';
 import '.../portfolio.css';
 import Footer from "./Footer";
 
-import HackerRoomImage from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/hacker-room.png';
+import HackerRoomImage from '.../Assets/hacker-room.png';
 
 import Modal from "../Footer-Components/Modal";
 

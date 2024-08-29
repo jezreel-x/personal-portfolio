@@ -4,11 +4,11 @@ import Footer from "./Footer";
 
 import Modal from "./Modal";
 
-import HackerRoomImage from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/hacker-room.png';
-import scamImage from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/scam-img.png';
-import mobileAppDev from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/android-mobile-app-development.png';
-import professionalWeb from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/professional-web.png';
-import portfolioWeb from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/portfolio-website.png';
+import HackerRoomImage from '.../Assets/hacker-room.png';
+import scamImage from '.../Assets/scam-img.png';
+import mobileAppDev from '.../Assets/android-mobile-app-development.png';
+import professionalWeb from '.../Assets/professional-web.png';
+import portfolioWeb from '.../Assets/portfolio-website.png';
 
 import '.../portfolio.css';
 

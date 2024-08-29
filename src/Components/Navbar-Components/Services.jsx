@@ -1,8 +1,8 @@
 import React from "react";
-import webDev from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/web-development.png';
+import webDev from '.../Assets/web-development.png';
 // import hackerImg from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/hacker.jpeg';
-import hacker from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/hacker-img.png';
-import mobileApp from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/mobile.jpg';
+import hacker from '.../Assets/hacker-img.png';
+import mobileApp from '.../Assets/mobile.jpg';
 
 import '.../portfolio.css';
 
