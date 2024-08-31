@@ -1,8 +1,8 @@
 import React from 'react';
-import officeImage from '.../Assets/office.jpg';
-import codingImg from '.../Assets/coding-img.jpg';
-import mobileApp from '.../Assets/mobile.jpg';
-import aiGenerated from '.../Assets/ai-generated.jpg';
+import officeImage from '../Assets/office.jpg';
+import codingImg from '../Assets/coding-img.jpg';
+import mobileApp from '../Assets/mobile.jpg';
+import aiGenerated from '../Assets/ai-generated.jpg';
 import '../../portfolio.css';
 
 

@@ -8,7 +8,7 @@ import '../../portfolio.css';
 import { AiTwotoneMessage } from "react-icons/ai";
 import { PiPhoneCallDuotone } from "react-icons/pi";
 
-import HackerRoomImage from '.../Assets/hacker-room.png';
+import HackerRoomImage from '../Assets/hacker-room.png';
 
 import Modal from "../Footer-Components/Modal";
 import ScrollBasedReveal from "../Additional-Components/Scroll-based-reveal";

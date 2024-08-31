@@ -1,9 +1,9 @@
 import React from "react";
 import Navbar from "../Navbar-Components/Navbar";
-import mpesa from '.../Assets/mpesa-logo.png';
-import paypal from '.../Assets/paypal.png';
-import stanchart from '.../Assets/StanChart.png';
-import bill from '.../Assets/bill.png';
+import mpesa from '../Assets/mpesa-logo.png';
+import paypal from '../Assets/paypal.png';
+import stanchart from '../Assets/StanChart.png';
+import bill from '../Assets/bill.png';
 import '../../portfolio.css';
 
 
