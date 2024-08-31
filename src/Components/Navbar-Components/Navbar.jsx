@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, Outlet } from "react-router-dom";
-import '.../portfolio.css';
+import '../../portfolio.css';
 import myImage from '.../Assets/profile-photo.jpg';
 
 const Navbar = () => {

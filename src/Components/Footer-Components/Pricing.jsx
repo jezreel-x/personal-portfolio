@@ -10,7 +10,7 @@ import mobileAppDev from '.../Assets/android-mobile-app-development.png';
 import professionalWeb from '.../Assets/professional-web.png';
 import portfolioWeb from '.../Assets/portfolio-website.png';
 
-import '.../portfolio.css';
+import '../../portfolio.css';
 
 import { AiTwotoneMessage } from "react-icons/ai";
 import { PiPhoneCallDuotone } from "react-icons/pi";

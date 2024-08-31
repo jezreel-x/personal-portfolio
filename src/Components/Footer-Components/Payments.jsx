@@ -4,7 +4,7 @@ import mpesa from '.../Assets/mpesa-logo.png';
 import paypal from '.../Assets/paypal.png';
 import stanchart from '.../Assets/StanChart.png';
 import bill from '.../Assets/bill.png';
-import '.../portfolio.css';
+import '../../portfolio.css';
 
 
 import Footer from "./Footer";

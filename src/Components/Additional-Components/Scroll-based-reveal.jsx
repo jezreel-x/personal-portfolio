@@ -1,5 +1,5 @@
 import React from "react";
-import 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/App.css';
+import '../../App.css';
 
 const ScrollBasedReveal = ({ children }) => {
     React.useEffect(() => {

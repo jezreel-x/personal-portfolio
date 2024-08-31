@@ -1,6 +1,6 @@
 import React from "react";
 import { useInView } from "react-intersection-observer";
-import '.../portfolio.css';
+import '../../portfolio.css';
 
 
 const ScrollReveal = ({ children, className = '', threshold = 0.1, ...props }) => {

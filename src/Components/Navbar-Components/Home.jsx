@@ -7,7 +7,7 @@ import Services from "./Services";
 import Projects from "./Projects";
 import { Link, Outlet } from "react-router-dom";
 
-import '.../portfolio.css';
+import '../../portfolio.css';
 import myImage from '.../Assets/profile-photo.jpg';
 
 import ScrollBasedReveal from "../Additional-Components/Scroll-based-reveal";

@@ -6,7 +6,7 @@ import reverseShell from '.../Assets/reverse-shell.jpg';
 import { DiTerminal } from "react-icons/di";
 import { CiCalculator2 } from "react-icons/ci";
 
-import '.../portfolio.css';
+import '../../portfolio.css';
 
 // import Footer from "./Footer";
 

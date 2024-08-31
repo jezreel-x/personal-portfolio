@@ -3,7 +3,7 @@ import Navbar from "../Navbar-Components/Navbar";
 import webDev from '.../Assets/web-development.png';
 import cybersec from '.../Assets/cybersec-img.jpg';
 import socialMedia from '.../Assets/social-media.jpg';
-import '.../portfolio.css';
+import '../../portfolio.css';
 import Footer from "./Footer";
 
 import HackerRoomImage from '.../Assets/hacker-room.png';
