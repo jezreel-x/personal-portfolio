@@ -1,6 +1,6 @@
 import React from "react";
 import TextAnimation from "../Additional-Components/TextAnimation";
-import hackerImg from '../Assets/hacker.jpeg';
+import hackerImg from '../../Assets/hacker.jpeg';
 import Footer from "../Footer-Components/Footer";
 // import Navbar from "./Navbar";
 import Services from "./Services";
@@ -8,11 +8,11 @@ import Projects from "./Projects";
 import { Link, Outlet } from "react-router-dom";
 
 import '../../portfolio.css';
-import myImage from '../Assets/profile-photo.jpg';
+import myImage from '../../Assets/profile-photo.jpg';
 
 import ScrollBasedReveal from "../Additional-Components/Scroll-based-reveal";
 
-import HackerRoomImage from '../Assets/hacker-room.png';
+import HackerRoomImage from '../../Assets/hacker-room.png';
 import { AiTwotoneMessage } from "react-icons/ai";
 import { PiPhoneCallDuotone } from "react-icons/pi";
 

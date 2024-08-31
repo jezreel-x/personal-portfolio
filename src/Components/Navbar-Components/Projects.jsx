@@ -1,8 +1,8 @@
 import React from "react";
 // import webDev from 'C:/Users/User/Desktop/Portfolio-Project/portfolio-app/src/Assets/web-development.png';
-import airhousing from '../Assets/yellow.png';
-import calc from '../Assets/calculator.jpg';
-import reverseShell from '../Assets/reverse-shell.jpg';
+import airhousing from '../../Assets/yellow.png';
+import calc from '../../Assets/calculator.jpg';
+import reverseShell from '../../Assets/reverse-shell.jpg';
 import { DiTerminal } from "react-icons/di";
 import { CiCalculator2 } from "react-icons/ci";
 
